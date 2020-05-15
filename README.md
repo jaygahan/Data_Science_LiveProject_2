@@ -1,1 +1,2 @@
 # Data_Science_LiveProject_2
+This project was to provide information that shows average ratings per category of app.  Also included in this project is the number of reviews which were included in the average rating for that category.  This was created to determine if a particular app category would be more  favorably reviewed than others to aid in determining which type of apps to create in the future.  
